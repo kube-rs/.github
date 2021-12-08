@@ -15,7 +15,7 @@ Dependencies a developer **might** find helpful to develop on kube-rs.
 
 ### Build Dependencies
 
-CLIs that are used for occasional build or release time manipulation.
+CLIs that are used for occasional build or release time manipulation. Maintainers need these.
 
 - [fd](https://github.com/sharkdp/fd)
 - [jq](https://stedolan.github.io/jq/)
