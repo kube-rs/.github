@@ -32,6 +32,7 @@ GNU tools like `make` + `grep` + `head` + `tail` + `awk` + `sed`, are also refer
 - [cargo-audit](https://github.com/RustSec/rustsec/tree/main/cargo-audit)
 - [cargo-deny](https://github.com/EmbarkStudios/cargo-deny)
 - [cargo-msrv](https://github.com/foresterre/cargo-msrv)
+- [cargo-tarpaulin](https://github.com/xd009642/tarpaulin)
 
 ### Integration Tests
 
